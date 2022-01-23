@@ -1,0 +1,11 @@
+{
+  "name": "clear",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Karla Acosta",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.1.6"
+  }
+}
